@@ -1,0 +1,16 @@
+es\gestorincidencias\PruebaH2Application.class
+es\gestorincidencias\repositorios\CategoriaRepository.class
+es\gestorincidencias\entidades\EstadoIncidencia.class
+es\gestorincidencias\entidades\CategoriaIncidencia.class
+es\gestorincidencias\repositorios\UsuarioRepository.class
+es\gestorincidencias\repositorios\IncidenciaRepositorio.class
+es\gestorincidencias\controladores\DataBaseUsage.class
+es\gestorincidencias\entidades\Incidencia.class
+es\gestorincidencias\servicios\PublicService.class
+es\gestorincidencias\controladores\PublicController.class
+es\gestorincidencias\repositorios\EstadoRepository.class
+es\gestorincidencias\entidades\RolUsuario.class
+es\gestorincidencias\entidades\PrioridadIncidencia.class
+es\gestorincidencias\entidades\Usuario.class
+es\gestorincidencias\repositorios\RolUsuarioRepository.class
+es\gestorincidencias\repositorios\PrioridadRepositorio.class
